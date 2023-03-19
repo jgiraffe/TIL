@@ -113,6 +113,11 @@ $ npm install tea-latte
 # └── tea@2.2.0
 ```
 
+## package-lock.json
+
+- `node_modules` 또는 `package.json` 가 수정되는 경우 자동으로 생성
+- 정확한 트리를 설명, 의존성 업데이트와 관계없이 동일한 트리를 생성하기 위함
+
 ## 레퍼런스
 
 - npm Docs : https://docs.npmjs.com/
