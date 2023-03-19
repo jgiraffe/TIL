@@ -2,6 +2,7 @@
 
 배운건 기록을 합시다
 
-## JavaScript Ecosystem
+### JavaScript Ecosystem
 
-### [Babel](/posts/babel.md)
+- [Babel](/posts/babel.md)
+- [npm](/posts/npm.md)
