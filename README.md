@@ -6,3 +6,7 @@
 
 - [Babel](/posts/babel.md)
 - [npm](/posts/npm.md)
+
+### Haskell
+
+- [Basic](/posts/HaskellBasic.md)
